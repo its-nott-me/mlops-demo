@@ -1,0 +1,8 @@
+.vscode
+.venv
+
+mlruns
+__pycache__
+
+*.db
+*.joblib

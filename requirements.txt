@@ -1,0 +1,11 @@
+scikit-learn
+mlflow
+shap
+lime
+fairlearn
+evidently
+fastapi
+uvicorn
+pandas
+joblib
+pytest
